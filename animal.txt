@@ -1,13 +1,1 @@
-<!DOCTYPE HTML>
-<html>
- <head>
- <meta charset="UTF-8">
-<title>поросенок</title>
- </head>
- <body>
-  <p>мое тотемное животное - поросенок</p>
-  <script>
-   alert("жми и узнаешь мое тотемное животное");
-  </script>
- </body>
-</html>
+мое тотемное животное - комар
