@@ -1,9 +1,9 @@
 <!DOCTYPE HTML>
 <html>
  <head>
-   поросенок
+ <meta charset="UTF-8">
+<title>поросенок</title>
  </head>
-
  <body>
   <p>мое тотемное животное - поросенок</p>
   <script>
